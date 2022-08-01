@@ -2,7 +2,7 @@
 Un renifleur de paquets réseau construit avec Python, analysant ICMP, TCP et UDP. 
 Une jolie façon de documenter ma compréhension des concepts de réseau.
 
-Schémas de documentation, dans l'ordre:
+Schémas de documentation, dans l'ordre: </br>
 1- Une trame ethernet classique ( Ethernet frame ), les données nous intéressant à ce niveau sont la destination, la source et type, </br>
 2- Détails du header des données que nous souhaitons analyser, dont dépendra le comportement de notre programme, en fonction du paquet ( TCP, UDP ou ICMP),</br>
 3- Détail du paquet TCP,</br>
